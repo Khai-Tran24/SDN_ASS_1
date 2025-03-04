@@ -1,7 +1,7 @@
 # SDN_ASS_1
 
 ## Project Overview
-This project is built using **Express**, **EJS**, **MONGODB** to create a dynamic web application.
+This project is built using **Express**, **EJS**, **Mongodb** to create a dynamic web application.
 
 ## Installation and Setup
 Follow these steps to run the project locally:
